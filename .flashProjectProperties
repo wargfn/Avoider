@@ -1,0 +1,30 @@
+<projectDescription>
+  <id>1300886284743</id>
+  <name>Avoider Game</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Snow Leopard/Users/wargfndev/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Snow Leopard/Users/wargfndev/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/Avoider.fla</defaultApp>
+  <rootURI>file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Clock.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/Clock.as</uri>
+    <uri label="Score.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/Score.as</uri>
+    <uri label="Counter.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/Counter.as</uri>
+    <uri label="Avoider.fla">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/Avoider.fla</uri>
+    <uri label="TitleScreen.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/TitleScreen.as</uri>
+    <uri label="AvoiderGame.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/AvoiderGame.as</uri>
+    <uri label="DocumentClass.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/DocumentClass.as</uri>
+    <uri label="GameOverScreen.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/GameOverScreen.as</uri>
+    <uri label="NavigationEvent.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/NavigationEvent.as</uri>
+    <uri label="AvatarEvent.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/AvatarEvent.as</uri>
+    <uri label="Enemy.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/Classes/Enemy.as</uri>
+    <uri label="Avatar.as">file:///Snow Leopard/Developer/workspace/FlashTesting/Avoider/Classes/Avatar.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
