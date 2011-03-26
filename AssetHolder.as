@@ -1,0 +1,1 @@
+﻿package{		/*	...	author:wargfn@wargfndev.blogspot.com	A Class just to hold me Assets	*/		import flash.display.MovieClip;		public class AssetHolder extends MovieClip	{				//public var is here				public function AssetHolder()		{								}			}	}
